@@ -9,6 +9,6 @@
  - Введение в машинное обучение
  
 <p align="center">
-  <img src="https://github.com/Yaroslav-Muravev/Sirius_cource/logo.png" />
+  <img src="https://github.com/Yaroslav-Muravev/Sirius_cource/raw/master/image.png" />
 </p> 
 
