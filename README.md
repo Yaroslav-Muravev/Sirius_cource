@@ -8,4 +8,7 @@
  - Введение в программирование на языке C++. v1.3
  - Введение в машинное обучение
  
-<body topmargin="30">![Logo](logo.png)</body>
+<p align="center">
+  <img src="https://github.com/Yaroslav-Muravev/Sirius_cource/logo.png" />
+</p> 
+
