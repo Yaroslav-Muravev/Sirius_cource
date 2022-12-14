@@ -8,4 +8,4 @@
  - Введение в программирование на языке C++. v1.3
  - Введение в машинное обучение
  
-<body topmargin="3in">![Logo](logo.png)</body>
+<body topmargin="30">![Logo](logo.png)</body>
