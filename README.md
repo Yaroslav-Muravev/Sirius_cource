@@ -7,7 +7,5 @@
 Модули:
  - Введение в программирование на языке C++. v1.3
  - Введение в машинное обучение
-
-margin-bottom: 1em;
-
-![Logo](logo.png)
+ 
+<body topmargin="3in">![Logo](logo.png)</body>
